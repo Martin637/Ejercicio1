@@ -1,0 +1,21 @@
+<rss version="2.0">
+    <channel>
+        <title>Ejercicio 1</title>
+        <link>http://test.com/</link>
+        <description>El tiempo en mi ciudad</description>
+        <item>
+            <title>España, Jaén, Jaén</title>
+            <link>https://www.eltiempo.es/jaen.html?v=por_hora</link>
+            <description>Temperatura 23º. Viento 15km/h Noreste. Lluvias 0mm. Nubes 100%</description>
+            <guid isPermaLink="false">Thu, 16 Apr 2020 14:40</guid>
+            <category>weather</category>
+        </item>
+        <item>
+            <title>Vuelve la lluvia el fin de semana</title>
+            <link>https://noticias.eltiempo.es/vuelve-la-lluvia-el-fin-de-semana/</link>
+            <description>El tiempo acompañará para seguir el confinamiento por coronavirus: fin de semana lluvioso</description>
+            <guid>https://noticias.eltiempo.es/vuelve-la-lluvia-el-fin-de-semana/</guid>
+            <category>news</category>
+        </item>
+    </channel>
+</rss>
